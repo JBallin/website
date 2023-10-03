@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcnoe=self.webpackChunkcnoe||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"CNOE - A Joint Effort to Share Internal Developer Platform Tools and Best Practices.","permalink":"/blog/welcome"}]}')}}]);
