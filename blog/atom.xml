@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cnoe-io.github.io/blog</id>
+    <title>CNOE Blog</title>
+    <updated>2023-01-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cnoe-io.github.io/blog"/>
+    <subtitle>CNOE Blog</subtitle>
+    <icon>https://cnoe-io.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://cnoe-io.github.io/blog/welcome"/>
+        <updated>2023-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello World,]]></summary>
+        <content type="html"><![CDATA[<p>Hello World,</p><p>Happy to start CNOE as an initiative to help companies run a packaged version of
+cloud native application for their internal developer platforms.</p><p>There is more to come, stay tuned ...</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-9cd6b5e2adc8da9a34ecb76c94ec76d4.jpeg" width="1000" height="667" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Nima Kaviani</name>
+            <uri>https://github.com/nimakaviani</uri>
+        </author>
+        <category label="launch" term="launch"/>
+        <category label="hello" term="hello"/>
+        <category label="cnoe" term="cnoe"/>
+    </entry>
+</feed>
